@@ -109,7 +109,7 @@ section:nth-of-type(2n){
     width: 12rem;
     height: 12rem;
     border-radius: 50%;
-    border-width: 1px;
+    border-width: 0px;
     border-style: solid;
     border-color: aliceblue;
     box-sizing: border-box;
